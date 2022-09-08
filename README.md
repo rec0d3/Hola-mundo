@@ -5,7 +5,7 @@ mi primer repositorio en Github
 solutions: always; , say: no:  more:
 
 
-i love code in python language , 
+i love coding in python language , 
 
 🍔
 🍷
